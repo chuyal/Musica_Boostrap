@@ -1,0 +1,53 @@
+body{
+	background-image:url(../img/fondo.jpg)
+}
+
+*{
+	
+
+    font-family: 'Gamja Flower', cursive;
+
+    font-family: 'Indie Flower', cursive;
+
+}
+#logo{
+	width: 100px;
+	height: 100px;
+
+}
+
+.redes{
+	width: 30px;
+	height: 30px;
+}
+#imagenes{
+	width: 80%;
+	height: 80%;
+}
+
+#imagenes1{
+	width: 80%;
+	height: 80%;
+	
+}
+
+ul{
+padding-top: 50px;
+ list-style-type: none;  
+ float: right;  
+ overflow: hidden;
+
+
+
+}
+ul li{
+	display: inline;
+
+}
+#primeraseccion{
+	background-color: #EAEDED;
+}
+
+#segundaseccion{
+	background-color: #F6CECE;
+}
